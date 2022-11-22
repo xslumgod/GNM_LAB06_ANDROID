@@ -1,0 +1,12 @@
+Агами |  Птицы | На юго-восток от Французской Гвианы, через Суринам и Гайану. | https://animalreader.ru/agami.html | 2
+Броненосец |  Млекопитающие  | В Южной Америке: на севере и в центре Аргентины, Восточной и Центральной Боливии и некоторых районах Бразилии и Парагвая. | https://animalreader.ru/yuzhnyj-trehpolosnyj-bronenosets.html | 10
+Выдра | Млекопитающие  | В реках, текущих в лесу, и даже в озерах и прудах. | https://animalreader.ru/krasnaya-kniga-rechnaya-vyidra.html | 15
+Гага  | Птицы |  В Арктике. | https://animalreader.ru/gaga-severnaya-utka.html | 1
+Дельфин |  Млекопитающие | В водных пространствах земного шара. | https://animalreader.ru/delfinyi-morskie-zhivotnyie.html | 150
+Ёж |  Млекопитающие | В Африки и на материке Евразия. | https://animalreader.ru/ezh-dikoe-zhivotnoe.html | 3
+Жаворонок полевой |  Птицы | В лесостепи и степи Азии и Европы. Эти пернатые были завезены в Северную Америку, Новую Зеландию и Австралию. | https://animalreader.ru/zhavoronok-polevoy.html | 5
+Заяц |  Млекопитающие | Повсеместно. | https://animalreader.ru/zaytsyi-v-prirode.html | 8
+Заяц-беляк |  Млекопитающие |  В северной части Монголии и в Казахстане. | https://animalreader.ru/zayats-belyak.html | 12
+Ибекс |  Млекопитающие |  в Альпийских горах.  | https://animalreader.ru/ibeks-vse-o-zhizni-alpiyskogo-kozla.html | 80
+
+
